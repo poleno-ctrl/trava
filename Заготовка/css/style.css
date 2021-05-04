@@ -1,0 +1,81 @@
+body{
+    margin: 0px;
+    background-image: url(../img/1.jpg);
+    background-size: contain;
+}
+
+h1{
+    width: 855px;
+    height: 100px;
+    color: #FF6145;
+    text-align: center;
+    font-family: 'Monotype Corsiva';
+    margin: auto;
+    padding: 10px;
+    border: 3px double #FF6145;
+    font-size: 45px;
+    background-color: #A5F37B;
+    transition: 1s;
+}
+h1:hover{
+    background-color: #47C143;
+    transition: 1s;
+}
+.menu{
+    background-color: #D5D987;
+    width: 860px;
+    height: 35px;
+    margin: 10px auto;
+    padding: 10px;
+    text-align: center;
+}
+a{
+    color:#FF6145;
+    font-family: 'Calibri';
+    font-size: 25px;
+    font-style: italic;
+    text-decoration: none;
+    margin: 0px 25px;
+    transition: 0.5s;
+    width: 120px;
+    display: inline-block;
+    transition: 1s;
+}
+a:hover{
+    background-color: #EBFFB1;
+    transition: 1s;
+}
+
+a:visited{
+    color:#47C143;
+}
+.block{
+    background-color:#EBFFB1;
+    width: 266px;
+    height: 460px;
+    margin: 19px;
+}
+h2{
+    font-family: "Calibri";
+    color: #FF6145;
+    padding: 5px;
+    font-size: 25px; 
+    text-align: center;
+    margin: 0px;
+}
+p{
+    font-family: "Calibri";
+    color: #47C143;
+    font-size: 20px; 
+    padding: 10px;
+    margin: 0px;
+}
+img{
+    width: 266px;
+    height: 250px;
+}
+.trava img{
+    width: 860px;
+    height: 100px;
+    margin: 19px;
+}
